@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A1bert
 - 👀 I’m interested in system administration on linux
-- 🌱 I’m currently learning Docker/K8s
+- 🌱 I’m currently learning Docker/K8s, Python and Ansible
 
 
 <!---
